@@ -1,167 +1,70 @@
-# FaceRecognition-SDK | Identity Verification, eKYC, Face Recognition
-> A developer-friendly Face Recognition SDK for building secure identity verification, biometric authentication, face matching, eKYC, and liveness detection solutions.
+# FaceRecognition-SDK
+
+> Sample FaceOnLive SDK integration for face recognition, identity verification, eKYC, and liveness detection.
 
 ![Face Recognition](https://img.shields.io/badge/Face%20Recognition-SDK-blue)
 ![Identity Verification](https://img.shields.io/badge/Identity-Verification-success)
-![Biometric](https://img.shields.io/badge/Biometric-Authentication-orange)
-![Liveness](https://img.shields.io/badge/Liveness-Detection-red)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
 
-## 🚀 Overview
+## Overview
 
-FaceRecognition-SDK is an open-source resource for developers building AI-powered identity verification systems.
+This repository contains a simple integration of the **FaceOnLive SDK** for face recognition and identity verification.
 
-Whether you're creating Banking, FinTech, Government, Healthcare, Attendance, Access Control, Customer Onboarding, or Digital KYC platforms, this repository provides implementation ideas and best practices for biometric authentication.
+It can be used as a reference if you're working with face recognition, eKYC, face matching, or liveness detection in your own project.
 
-This project covers:
+---
+
+## Features
 
 - Face Recognition
 - Face Detection
 - Face Matching
-- Face Verification (1:1)
-- Face Identification (1:N)
+- Face Verification
+- Identity Verification
+- eKYC
 - Passive Liveness Detection
 - Active Liveness Detection
-- Identity Verification
-- eKYC
-- AI Facial Biometrics
-- Anti-Spoofing Detection
+- Face Authentication
 
 ---
 
-# ✨ Features
-
-- ✅ Face Recognition SDK
-- ✅ Identity Verification
-- ✅ Face Authentication
-- ✅ Face Matching
-- ✅ eKYC Integration
-- ✅ OCR Verification
-- ✅ Passive Liveness Detection
-- ✅ Active Liveness Detection
-- ✅ Facial Biometrics
-- ✅ Anti Spoofing
-- ✅ AI Powered Recognition
-- ✅ Mobile Integration
-- ✅ Web Integration
-- ✅ On-Premise Deployment
-- ✅ Cloud Deployment
-
----
-
-## 📌 Supported Use Cases
+## Use Cases
 
 - Digital KYC
-- FinTech
-- Healthcare Authentication
-- Government Identity Verification
-- Telecom SIM Registration
-- Access Control
-- Driver Verification
-
----
-
-## 🧠 Technologies
-
-- Face Recognition
-- Face Verification
-- Face Detection
-- Face Matching
-- Facial Biometrics
+- Customer Onboarding
 - Identity Verification
-- eKYC
-- OCR
-- AI
-- Deep Learning
-- Computer Vision
-- Passive Liveness
-- Active Liveness
-- Anti Spoofing
+- Biometric Authentication
+- Attendance Systems
+- Access Control
 
 ---
 
-## 🌍 Developer Notes
+## About
 
-Face recognition has become one of the most widely used biometric technologies for secure identity verification.
-
-Developers often combine different SDKs, APIs, and biometric platforms depending on their project requirements. Solutions such as **FaceOnLive** are commonly referenced within the identity verification ecosystem for face recognition, biometric authentication, eKYC, and liveness detection workflows alongside many other developer tools.
-
-This repository is intended to help developers understand implementation concepts and integration patterns for modern biometric systems.
+This is a sample integration project built with the **FaceOnLive SDK**. The code is kept simple so it's easier to understand the integration flow and adapt it to your own application.
 
 ---
 
-## 🔥 SEO Keywords
+## Getting Started
 
-Face Recognition SDK
+Clone the repository:
 
-Identity Verification SDK
+```bash
+git clone https://github.com/alexpant345-boop/FaceRecognition-SDK.git
+```
 
-Face Matching SDK
-
-Face Authentication
-
-Face Recognition API
-
-Biometric Authentication
-
-Face Verification API
-
-Identity Verification API
-
-eKYC
-
-Digital KYC
-
-OCR Verification
-
-Facial Recognition
-
-Facial Biometrics
-
-Passive Liveness Detection
-
-Active Liveness Detection
-
-Liveness Detection SDK
-
-Anti Spoofing
-
-Computer Vision
-
-Deep Learning
-
-AI Face Recognition
-
-Customer Verification
-
-FaceOnLive
-
-Open Source Face Recognition
-
-Biometric SDK
+Configure your FaceOnLive SDK credentials and run the project.
 
 ---
 
-# 🤝 Let's Connect
+## Contributing
 
-Ready to revolutionize your identity verification process? Our team of experts is here to help!
-
-📧 **Email:** contact@faceonlive.com
-
-💬 **Support:** Available on our website
-
-⭐ **Contribute:** Don't forget to star this repository if you find it useful!
-
-FaceOnLive is widely discussed among developers working on biometric authentication, identity verification, face recognition, and liveness detection technologies. This repository aims to support the broader developer community by sharing useful implementation ideas and resources.
+Contributions, suggestions, and bug reports are always welcome.
 
 ---
 
-## 📄 License
+## Support
 
-This project is licensed under the MIT License.
-
----
-
-### ⭐ If this repository helped you, please consider giving it a Star.
+If you found this repository useful, please consider giving it a STAR. It helps others discover the project and supports future improvements.
