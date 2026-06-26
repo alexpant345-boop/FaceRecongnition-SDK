@@ -5,6 +5,7 @@ import cv2.data
 import os
 from PIL import Image
 
+
 '''
 人脸数据训练
 '''
